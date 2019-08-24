@@ -9,7 +9,7 @@ Update the program to calculate how much a student organization earns during its
 # Sample Output
 ```
 Welcome to the Earnings Calculator!
-How many candy bars did you sell? **135**
-How much does the organization earn for each bar sold? **0.45**
+How many candy bars did you sell? 135
+How much does the organization earn for each bar sold? 0.45
 Congratulations! You have earned $60.75 for the organization!
 ```
